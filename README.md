@@ -6,8 +6,7 @@
 </head>
 <body>
   <table>
-    <tr>
-      <td><img src="file://desktop-bj5ddep/Users/asd/OneDrive/Desktop/aria2.png"></td>
+      <td>"https://images.app.goo.gl/zkjB77mqr4x9oHGTA">Arpita'sprofilepicture</td>
       <td><a href="https://narpi100.github.io/My-contacts/"> My contacts </a>
 
 

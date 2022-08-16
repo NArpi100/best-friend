@@ -72,17 +72,9 @@
    </tr>
   </tbody>
 </table>
-  </body>
-    </html>
-    <html>
- <head>
-   <title> My Contacts </title>
+<p> My contacts numbers are :- </p>
 
- </head>
- <body>
-   <p> My contacts numbers are :- </p>
-
-   <ol>
+  <ol>
     <li> 7431030377</li>
     <li> 7431030377</li>
     <li> 7431030377</li>
@@ -98,4 +90,4 @@
  </form>
 
   </body>
-    <html>
+    </html>

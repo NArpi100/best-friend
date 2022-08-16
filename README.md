@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td><img src="file://desktop-bj5ddep/Users/asd/OneDrive/Desktop/aria2.png"></td>
-      <td><a href="https://github.com/NArpi100/My-contacts"> My contacts </a>
+      <td><a href="https://narpi100.github.io/My-contacts/"> My contacts </a>
 
 
       <h3><strong> Arpita's profile picture <br>  <a href="https://in.linkedin.com/in/arpita-ghosh-7715b1210">Linkedin link</a> </strong></h3>

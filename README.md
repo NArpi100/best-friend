@@ -6,7 +6,7 @@
 </head>
 <body>
   <table>
-      <td>"https://images.app.goo.gl/zkjB77mqr4x9oHGTA">Arpita'sprofilepicture</td>
+      <td>src ="https://images.app.goo.gl/WKWv3NgJtLajBVuu9">Arpita's profile picture</td>
       <td><a href="https://narpi100.github.io/My-contacts/"> My contacts </a>
 
 

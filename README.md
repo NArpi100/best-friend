@@ -1,7 +1,7 @@
 ![aria2](https://user-images.githubusercontent.com/109304286/185603235-3b412600-c391-4bc2-ae3b-9cf6c7312464.png)
 <html>
 <head>
-
+   <title> My Site </title>
    <link rel="stylesheet" href="css styles.css">
    <link rel ="icon" href="favicon.ico">
   

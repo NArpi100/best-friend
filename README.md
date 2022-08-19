@@ -8,7 +8,7 @@
 </head>
 <body>
   <table>
-      <td>src ="https://user-images.githubusercontent.com/109304286/185600685-9739985d-c657-49ab-bac8-3dcbc9529c7f.png">Arpita's profile picture</td>
+      
       <td><a href="https://narpi100.github.io/My-contacts/"> My contacts </a>
 
 

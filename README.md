@@ -1,4 +1,4 @@
-
+<html>
 <head>
 
    <link rel="stylesheet" href="css styles.css">
@@ -70,4 +70,7 @@
       <td style="color:red;"> MAGIC </td>
       <td>✨✨✨✨✨</td>
    </tr>
-  </tbo
+   </tbody>
+   </table>
+   </body>
+   </html>

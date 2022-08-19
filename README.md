@@ -7,7 +7,7 @@
 </head>
 <body>
   <table>
-      <td>src ="https://images.app.goo.gl/WKWv3NgJtLajBVuu9">Arpita's profile picture</td>
+      <td>src ="https://user-images.githubusercontent.com/109304286/185600685-9739985d-c657-49ab-bac8-3dcbc9529c7f.png">Arpita's profile picture</td>
       <td><a href="https://narpi100.github.io/My-contacts/"> My contacts </a>
 
 
@@ -70,10 +70,4 @@
       <td style="color:red;"> MAGIC </td>
       <td>✨✨✨✨✨</td>
    </tr>
-  </tbody  
-    </table>
-
-
-      </body>
-    
-![aria2](https://user-images.githubusercontent.com/109304286/185600685-9739985d-c657-49ab-bac8-3dcbc9529c7f.png)
+  </tbo
